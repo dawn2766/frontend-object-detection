@@ -1,5 +1,3 @@
-// src/app.js
-
 import { startCamera } from './utils/camera.js';
 
 const video = document.createElement('video');
