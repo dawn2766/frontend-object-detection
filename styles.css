@@ -15,7 +15,7 @@ body {
 
 .header {
     position: absolute;
-    top: 10%;
+    top: 5%;
     width: 100%;
     left: 0%;
     text-align: center;
@@ -68,7 +68,7 @@ canvas {
 
 .footer {
     position: absolute;
-    bottom: 10%;
+    bottom: 5%;
     width: 100%;
     left: 0%;
     text-align: center;
